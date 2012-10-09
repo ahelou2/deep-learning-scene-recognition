@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/97/trunk
+END
+nunique.m
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/7/trunk/nunique.m
+END
+batch_RBMc_update.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/batch_RBMc_update.m
+END
+ind2sub2.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/93/trunk/ind2sub2.m
+END
+scene_exp_1.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/42/trunk/scene_exp_1.m
+END
+process_options.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/process_options.m
+END
+cvis_features4D.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/97/trunk/cvis_features4D.m
+END
+scene_exp_2.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/42/trunk/scene_exp_2.m
+END
+scene_exp_3.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/42/trunk/scene_exp_3.m
+END
+scene_exp_4.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/42/trunk/scene_exp_4.m
+END
+arrayToDims.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/93/trunk/arrayToDims.m
+END
+myrepmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/93/trunk/myrepmat.m
+END
+unsuperv_offline_eval.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/67/trunk/unsuperv_offline_eval.m
+END
+unit_test_batches_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/76/trunk/unit_test_batches_data.m
+END
+convnFast.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/95/trunk/convnFast.m
+END
+cvis_features.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/70/trunk/cvis_features.m
+END
+mysub2ind3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/93/trunk/mysub2ind3D.m
+END
+read_outdoor_scene.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/trunk/read_outdoor_scene.m
+END
+processdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/83/trunk/processdata.py
+END
+dbnFit.m
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/37/trunk/dbnFit.m
+END
+dispims.m
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/62/trunk/dispims.m
+END
+interweave.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7/trunk/interweave.m
+END
+convnfft_install.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/93/trunk/convnfft_install.m
+END
+crbm2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/95/trunk/crbm2D.m
+END
+prepareArgs.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/prepareArgs.m
+END
+logistic.m
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/7/trunk/logistic.m
+END
+rbm.m
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/66/trunk/rbm.m
+END
+scene_exp2_CDBN.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/95/trunk/scene_exp2_CDBN.m
+END
+convnfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/93/trunk/convnfft.m
+END
+scene_exp4_CDBN.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/96/trunk/scene_exp4_CDBN.m
+END
+rbmBB.m
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/10/trunk/rbmBB.m
+END
+inplaceprod.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/93/trunk/inplaceprod.c
+END
+getObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/37/trunk/getObjects.m
+END
+rbmPredict.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7/trunk/rbmPredict.m
+END
+SVMdata.m
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/81/trunk/SVMdata.m
+END
+vis_features.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/62/trunk/vis_features.m
+END
+normalize.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/67/trunk/normalize.m
+END
+replicate_pool.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/72/trunk/replicate_pool.m
+END
+mysub2ind2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/93/trunk/mysub2ind2D.m
+END
+c_unsuperv_offline_eval.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/97/trunk/c_unsuperv_offline_eval.m
+END
+experiments.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/42/trunk/experiments.m
+END
+multinomial_exp.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/93/trunk/multinomial_exp.m
+END
+multinomial_exp_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/62/trunk/multinomial_exp_sample.m
+END
+cdbn_unsupervised_fit_testscript.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/73/trunk/cdbn_unsupervised_fit_testscript.m
+END
+getbatches.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/74/trunk/getbatches.m
+END
+c_gen_feat.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/97/trunk/c_gen_feat.m
+END
+visualize.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/7/trunk/visualize.m
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/62/trunk/notes.txt
+END
+experiment_set1.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/33/trunk/experiment_set1.m
+END
+experiment_set2.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/33/trunk/experiment_set2.m
+END
+softmaxPmtk.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7/trunk/softmaxPmtk.m
+END
+dbnPredict.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/27/trunk/dbnPredict.m
+END
+scene_exp1_CDBN.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/78/trunk/scene_exp1_CDBN.m
+END
+rbmVtoH.m
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/20/trunk/rbmVtoH.m
+END
+dbn_unsupervised_fit.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/trunk/dbn_unsupervised_fit.m
+END
+rbmHtoV.m
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/20/trunk/rbmHtoV.m
+END
+rbm_fit.m
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/66/trunk/rbm_fit.m
+END
+softmax_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/softmax_sample.m
+END
+rbmFit.m
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/7/trunk/rbmFit.m
+END
+batch_RBM_update.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/35/trunk/batch_RBM_update.m
+END

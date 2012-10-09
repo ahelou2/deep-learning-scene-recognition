@@ -1,0 +1,47 @@
+This is a Python library for several types of deep belief networks.
+
+The convolutional RBM code is based on the 2009 ICML paper by Lee, Grosse,
+Ranganath and Ng, "Convolutional Deep Belief Networks for Scalable Unsupervised
+Learning of Hierarchical Representations".
+
+All implementations incorporate an option to train hidden unit biases using a
+sparsity criterion, as described in Lee, Ekanadham and Ng, "Sparse Deep Belief
+Net Model for Visual Area V2" (NIPS 2008).
+
+All RBM implementations also provide an option to treat visible units as either
+binary or gaussian. Training networks with gaussian visible units is a tricky
+dance of parameter-twiddling, but binary units seem quite stable in their
+learning and convergence properties.
+
+To try things out, download the MNIST digits dataset from
+
+  curl http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz | gunzip -c > train-images.ubyte
+  curl http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz | gunzip -c > train-labels.ubyte
+
+then install Python OpenGL 2.0 (make sure you updated your graphic card driver).
+There could be other libraries you need to install.
+
+and install glumpy using
+
+  pip install http://glumpy.googlecode.com/hg#egg=glumpy
+
+Then run the test with
+
+  python test_rbm.py 
+        --labels train-labels.ubyte 
+        --images train-images.ubyte 
+        --batch-size 25
+        --l2 0.0001 
+        --alpha 0.02 
+        --momentum 0.5 
+        --tau 1000 
+        --sparsity 0.01
+
+The learning parameters are squirrelly, but if things go right you should see a
+number of images show up on your screen that represent the "basis functions"
+that the network has learned when trying to auto-encode the images you are
+feeding it.
+
+Please send me comments, corrections, or bug fixes !
+
+Leif Johnson <leif@leifjohson.net>

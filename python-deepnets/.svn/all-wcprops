@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/65/trunk/python-deepnets
+END
+training.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/63/trunk/python-deepnets/training.py
+END
+test_rbm.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/48/trunk/python-deepnets/test_rbm.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/trunk/python-deepnets/setup.py
+END
+rbm.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/65/trunk/python-deepnets/rbm.py
+END
+sample.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/65/trunk/python-deepnets/sample.py
+END
+DBN.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/65/trunk/python-deepnets/DBN.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/python-deepnets/README
+END
+idx_reader.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/python-deepnets/idx_reader.py
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light
+END
+svm_loqo.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light/svm_loqo.c
+END
+svm_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light/svm_common.h
+END
+svm_classify.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light/svm_classify.c
+END
+kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light/kernel.h
+END
+svm_learn.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light/svm_learn.c
+END
+svm_learn_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light/svm_learn_main.c
+END
+svm_learn.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light/svm_learn.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light/Makefile
+END
+svm_hideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light/svm_hideo.c
+END
+svm_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_light/svm_common.c
+END

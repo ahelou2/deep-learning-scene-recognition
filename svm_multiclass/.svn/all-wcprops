@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/83/trunk/svm_multiclass
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/45/trunk/svm_multiclass/LICENSE.txt
+END
+svm_struct_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct_api.c
+END
+svm_struct_learn_custom.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct_learn_custom.c
+END
+svm_struct_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct_api.h
+END
+svm_struct_api_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct_api_types.h
+END
+script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/83/trunk/svm_multiclass/script.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/svm_multiclass/Makefile
+END

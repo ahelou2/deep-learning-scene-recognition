@@ -1,0 +1,12 @@
+clear all;
+load scene.mat;
+n = length(scene);
+op_vis.verbose = 1;
+fprintf('Run experiment 1\n');
+scene_exp_1;
+fprintf('Run experiment 2\n');
+scene_exp_2;
+fprintf('Run experiment 3\n');
+scene_exp_3;
+fprintf('Run experiment 4\n');
+scene_exp_4;

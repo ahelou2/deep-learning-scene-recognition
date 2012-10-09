@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 113
+airplane.mat
+airplane_motorbike_formatted_data.mat
+digit8.mat
+spatial_envelope_256x256_static_8outdoorcategories
+
+END

@@ -1,0 +1,41 @@
+- adding sparsity to RBM will improve results. In fact, "Sparse deep belief net 
+  model for visual area V2" describes an algorithm for sparse RBMs. 
+- as a preprocessing step, whithening the image might help. see autoencoder 
+  lecture note p. 17 footnote 4.
+- dispims.m only works with squared images.
+- PCA whitening can speed computation. See "Sparse deep belief net model for 
+  visual area V2". See p.4, footnote 4.
+ - There is a confusion on how to normalize the data. In Hinton and Ruslan's 
+   sience paper, they say to normalize the data component-wise such to have
+   0 mean andf variance of 1. But in Honglak's "sparse deep belief net model 
+   for visual area V2", page 4 footnote 4, seems to imply that they simply 
+   constrained the continuous values to lie in the unit interval.
+- from my brief experiments with the MNIST digit8 experiments, most of the 
+  time adding more layers was increasing the reconstruction error!
+- It would be nice to implement a steadily decreasing learning rate. 
+- convolutional DBN is translation-invariant but we also need scale-invariant.
+- In experiment_set1 and experiment_set2:
+	- randomizing the data initially might have helped.
+- In the science paper code, the next rbm is fed the posterior probability over
+  the hiden units instead of the posterior hidden states. However, in the survey
+  paper, the posterior hidden units are fed to the net rbm. The DBM code is unclear
+  on what it does.
+- In experiment_set1 and experiment_set2 the features learned were approximately
+	just examples of the data. This probably means that the the model was overfitting.
+	Because I was running for 200 epochs and the error was barely decreasing after 
+	dozens of epochs this increases my considence of overfitting. I should run for
+	a few epochs and see how the features change.
+- In the litterature doing object recognition on Caltech 101, only 30 samples 
+	from each category is used for training.
+-	"Unsupervised Learning of Invariant Feature Hierarchies
+	with Applications to Object Recognition" may have mentionned something about
+	scale invariant architecture.
+-	"Unsupervised Learning of Invariant Feature Hierarchies
+	with Applications to Object Recognition" about preprocessing Caltech 101 images:
+	-	the input images are preprocessed.
+		They are converted to gray-scale, resized so that the
+		longer edge is 140 pixels while maintaining the aspect ratio,
+		high-pass filtered to remove the global lighting variations,
+		and evenly zero-padded to a 140×140 image frame.
+-	Right now, using momentum with crbm2D is detrimental to reconstruction
+	error but not using momentum may mean that I'm overfitting.

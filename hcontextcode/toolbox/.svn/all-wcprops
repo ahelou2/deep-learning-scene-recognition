@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox
+END
+marToPotIndep.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/marToPotIndep.m
+END
+addimagesize.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/addimagesize.m
+END
+LMstats.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMstats.m
+END
+LMsceneThumbnail.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMsceneThumbnail.m
+END
+getwords.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/getwords.m
+END
+LMobjectboundingbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMobjectboundingbox.m
+END
+drawWeightedGraph.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/drawWeightedGraph.m
+END
+computeMutualInformationBin.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/computeMutualInformationBin.m
+END
+binPotCondLocMeas.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/binPotCondLocMeas.m
+END
+LMrecallPrecision.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMrecallPrecision.m
+END
+LMplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMplot.m
+END
+LMlabeledarea.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMlabeledarea.m
+END
+LMobjectmask.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMobjectmask.m
+END
+LMobjectstats.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMobjectstats.m
+END
+getLMpolygon.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/getLMpolygon.m
+END
+LMimcrop.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMimcrop.m
+END
+deleteObjectsOutsideFrame.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/deleteObjectsOutsideFrame.m
+END
+colorSegments.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/colorSegments.m
+END
+test_sparse_primal_svm.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/test_sparse_primal_svm.m
+END
+image2WorldCoords.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/image2WorldCoords.m
+END
+getaproximagesize.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/getaproximagesize.m
+END
+LMimread.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMimread.m
+END
+drawHierarchy.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/drawHierarchy.m
+END
+setLMpolygon.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/setLMpolygon.m
+END
+addDetector2LM.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/addDetector2LM.m
+END
+marToPotBin.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/marToPotBin.m
+END
+loadXML.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/loadXML.m
+END
+LMimscale.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMimscale.m
+END
+findobject.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/findobject.m
+END
+test_primal_svm.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/test_primal_svm.m
+END
+figROC.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/figROC.m
+END
+compute_kernel.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/compute_kernel.m
+END
+createGabor.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/createGabor.m
+END
+sampleFromBinTree.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/sampleFromBinTree.m
+END
+LMobjectnames.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMobjectnames.m
+END
+sparse_primal_svm.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/sparse_primal_svm.m
+END
+LMdbshowscenes_supp.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMdbshowscenes_supp.m
+END
+xml2struct.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/xml2struct.m
+END
+subplottight.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/subplottight.m
+END
+computeLocStats.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/computeLocStats.m
+END
+upper2space.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/upper2space.m
+END
+binPotCondLoc.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/binPotCondLoc.m
+END
+LMdatabase.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMdatabase.m
+END
+LMaddtags.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMaddtags.m
+END
+LMsortlayers.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMsortlayers.m
+END
+LMvalidobjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMvalidobjects.m
+END
+parseContent.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/parseContent.m
+END
+LMobjectpolygon.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMobjectpolygon.m
+END
+LMcountobject.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMcountobject.m
+END
+ChowLiu.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/ChowLiu.m
+END
+computeBnStats.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/computeBnStats.m
+END
+addcroplabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/addcroplabel.m
+END
+LMplot_supp.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMplot_supp.m
+END
+maxProductBin.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/maxProductBin.m
+END
+LMcreateObjectIndexField.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMcreateObjectIndexField.m
+END
+kernel.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/kernel.m
+END
+LMdbshowscenes.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMdbshowscenes.m
+END
+objectareas.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/objectareas.m
+END
+folder2class.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/folder2class.m
+END
+dist2.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/dist2.m
+END
+LMobjectindex.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMobjectindex.m
+END
+LMreplaceobjectname.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMreplaceobjectname.m
+END
+treeLayout.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/treeLayout.m
+END
+addviewpoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/addviewpoint.m
+END
+sumProductBin.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/sumProductBin.m
+END
+loadtags.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/loadtags.m
+END
+LMquery.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMquery.m
+END
+LMgist.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/LMgist.m
+END
+addCandidateWindows.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/addCandidateWindows.m
+END
+connected.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/connected.m
+END
+treeMsgOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/treeMsgOrder.m
+END
+computeJhMeas.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/computeJhMeas.m
+END
+getWindowLoc.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/getWindowLoc.m
+END
+marToPot.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/marToPot.m
+END
+cleanMTlabels.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/cleanMTlabels.m
+END
+primal_svm.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/primal_svm.m
+END
+locTransform.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/locTransform.m
+END
+computeJhPrior.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/computeJhPrior.m
+END
+computeMutualInformation.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/computeMutualInformation.m
+END
+imresizecrop.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/imresizecrop.m
+END
+detectors2LMstruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/detectors2LMstruct.m
+END
+precisionRecall.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/precisionRecall.m
+END
+probGaussInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/probGaussInfo.m
+END
+countpolygons.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/hcontextcode/toolbox/countpolygons.m
+END

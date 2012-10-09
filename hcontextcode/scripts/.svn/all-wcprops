@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/65/trunk/hcontextcode/scripts
+END
+eval_performance.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/65/trunk/hcontextcode/scripts/eval_performance.m
+END
+learn_binary_measurement_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/65/trunk/hcontextcode/scripts/learn_binary_measurement_model.m
+END
+learn_location_measurement_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/65/trunk/hcontextcode/scripts/learn_location_measurement_model.m
+END
+load_tree.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/65/trunk/hcontextcode/scripts/load_tree.m
+END
+learn_binary_prior.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/65/trunk/hcontextcode/scripts/learn_binary_prior.m
+END
+learn_loc_params.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/65/trunk/hcontextcode/scripts/learn_loc_params.m
+END
+apply_hcontext.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/hcontextcode/scripts/apply_hcontext.m
+END
+train_gist.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/hcontextcode/scripts/train_gist.m
+END

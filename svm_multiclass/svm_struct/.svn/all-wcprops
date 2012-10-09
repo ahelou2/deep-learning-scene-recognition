@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct
+END
+svm_struct_learn.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct/svm_struct_learn.h
+END
+svm_struct_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct/svm_struct_common.c
+END
+svm_struct_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct/svm_struct_common.h
+END
+svm_struct_classify.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct/svm_struct_classify.c
+END
+svm_struct_learn.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct/svm_struct_learn.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct/Makefile
+END
+svm_struct_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/svm_multiclass/svm_struct/svm_struct_main.c
+END
